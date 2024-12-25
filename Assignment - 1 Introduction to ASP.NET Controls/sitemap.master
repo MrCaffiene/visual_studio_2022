@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Assignment - 1 Introduction to ASP.NET Controls.Master" AutoEventWireup="true" CodeBehind="sitemap.master.cs" Inherits="Assignment___1_Introduction_to_ASP.NET_Controls.sitemap" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="body" runat="server">
+    <h2>8.Write a program to demonstrate Navigation Controls.
+    </h2>
+        <h3>Navigtion Controls available in asp.net = Menu, TreeView, SiteMap</h3>
+        <div>
+            <h3>SiteMap : </h3>
+            <asp:SiteMapPath ID="SiteMapPath1" runat="server"></asp:SiteMapPath>
+        </div>
+    <asp:ContentPlaceHolder ID="Content3" runat="server">
+    </asp:ContentPlaceHolder>
+    <div>
+    <div>
+        <h3>Menu : </h3>
+        <asp:Menu ID="Menu" runat="server">
+            <Items>
+                <asp:MenuItem NavigateUrl="~/8.aspx" Text="Root Page" Value="New Item">
+                    <asp:MenuItem NavigateUrl="~/Parent1.aspx" Target="_blank" Text="Parent1_page" Value="Parent1_page">
+                        <asp:MenuItem NavigateUrl="~/Child11.aspx" Target="_blank" Text="Child11_Page" Value="Child11_Page"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Child12.aspx" Target="_blank" Text="Child12_Page" Value="Child12_Page"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/Parent2.aspx" Target="_blank" Text="Parent2_Page" Value="Parent2_Page"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/Parent3.aspx" Target="_blank" Text="Parent3_Page" Value="Parent3_Page">
+                        <asp:MenuItem NavigateUrl="~/Child31.aspx" Target="_blank" Text="Child21_Page" Value="Child21_Page"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Child32.aspx" Target="_blank" Text="Child22_Page" Value="Child22_Page"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Child33.aspx" Target="_blank" Text="Child23_Page" Value="Child23_Page"></asp:MenuItem>
+                    </asp:MenuItem>
+                </asp:MenuItem>
+            </Items>
+        </asp:Menu>
+    </div>
+        <br />
+    <div>
+        <h3>TreeView : </h3>
+        <asp:TreeView ID="TreeView1" runat="server">
+            <Nodes>
+                <asp:TreeNode NavigateUrl="~/8.aspx" Text="Root_Page" Value="Root_Page">
+                    <asp:TreeNode NavigateUrl="~/Parent1.aspx" Text="Parent1_Page" Value="Parent1_Page">
+                        <asp:TreeNode NavigateUrl="~/Child11.aspx" Target="_blank" Text="Child11_Page" Value="Child11_Page"></asp:TreeNode>
+                        <asp:TreeNode NavigateUrl="~/Child12.aspx" Target="_blank" Text="Child12_Page" Value="Child12_Page"></asp:TreeNode>
+                    </asp:TreeNode>
+                    <asp:TreeNode NavigateUrl="~/Parent2.aspx" Text="Parent2_Page" Value="Parent2_Page"></asp:TreeNode>
+                    <asp:TreeNode NavigateUrl="~/Parent3.aspx" Text="Parent3_Page" Value="Parent3_Page">
+                        <asp:TreeNode NavigateUrl="~/Child31.aspx" Target="_blank" Text="Child31_Page" Value="Child31_Page"></asp:TreeNode>
+                        <asp:TreeNode NavigateUrl="~/Child32.aspx" Target="_blank" Text="Child32_Page" Value="Child32_Page"></asp:TreeNode>
+                        <asp:TreeNode NavigateUrl="~/Child33.aspx" Target="_blank" Text="Child33_Page" Value="Child33_Page"></asp:TreeNode>
+                    </asp:TreeNode>
+                </asp:TreeNode>
+            </Nodes>
+        </asp:TreeView>
+    </div>
+
+</div>
+</asp:Content>

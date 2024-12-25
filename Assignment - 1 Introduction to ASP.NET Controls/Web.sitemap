@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+	<siteMapNode title="sitemap">
+		<siteMapNode url="8.aspx" title="Root_Page" description="">
+			<siteMapNode url="Parent1.aspx" title="Parent1"  description="">
+				<siteMapNode url="Child11.aspx" title="Child11"  description=""/>
+				<siteMapNode url="Child12.aspx" title="Child12"  description=""/>
+			</siteMapNode>
+			<siteMapNode url="Parent2.aspx" title="Parent2"  description=""></siteMapNode>
+			<siteMapNode url="Parent3.aspx" title="Parent3"  description="">
+				<siteMapNode url="Child31.aspx" title="Child31"  description=""/>
+				<siteMapNode url="Child32.aspx" title="Child32"  description=""/>
+				<siteMapNode url="Child33.aspx" title="Child33"  description=""/>
+			</siteMapNode>
+		</siteMapNode>
+	</siteMapNode>
+</siteMap>

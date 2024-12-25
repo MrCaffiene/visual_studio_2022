@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankit\\Desktop\\working\\GIT_HUB\\visual_studio_2022\\college_practicals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DED4973-9BF5-4824-A02D-9725A727BB02}|college_practicals.csproj|c:\\users\\ankit\\desktop\\working\\git_hub\\visual_studio_2022\\college_practicals\\webservice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0DED4973-9BF5-4824-A02D-9725A727BB02}|college_practicals.csproj|solutionrelative:webservice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DED4973-9BF5-4824-A02D-9725A727BB02}|college_practicals.csproj|c:\\users\\ankit\\desktop\\working\\git_hub\\visual_studio_2022\\college_practicals\\webservice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DED4973-9BF5-4824-A02D-9725A727BB02}|college_practicals.csproj|solutionrelative:webservice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DED4973-9BF5-4824-A02D-9725A727BB02}|college_practicals.csproj|c:\\users\\ankit\\desktop\\working\\git_hub\\visual_studio_2022\\college_practicals\\webservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DED4973-9BF5-4824-A02D-9725A727BB02}|college_practicals.csproj|solutionrelative:webservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 272,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebService.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\Desktop\\working\\GIT_HUB\\visual_studio_2022\\college_practicals\\WebService.aspx.cs",
+              "RelativeDocumentMoniker": "WebService.aspx.cs",
+              "ToolTip": "C:\\Users\\ankit\\Desktop\\working\\GIT_HUB\\visual_studio_2022\\college_practicals\\WebService.aspx.cs",
+              "RelativeToolTip": "WebService.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:11:53.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebService.aspx",
+              "DocumentMoniker": "C:\\Users\\ankit\\Desktop\\working\\GIT_HUB\\visual_studio_2022\\college_practicals\\WebService.aspx",
+              "RelativeDocumentMoniker": "WebService.aspx",
+              "ToolTip": "C:\\Users\\ankit\\Desktop\\working\\GIT_HUB\\visual_studio_2022\\college_practicals\\WebService.aspx",
+              "RelativeToolTip": "WebService.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-14T05:07:44.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\Desktop\\working\\GIT_HUB\\visual_studio_2022\\college_practicals\\WebService.asmx.cs",
+              "RelativeDocumentMoniker": "WebService.asmx.cs",
+              "ToolTip": "C:\\Users\\ankit\\Desktop\\working\\GIT_HUB\\visual_studio_2022\\college_practicals\\WebService.asmx.cs",
+              "RelativeToolTip": "WebService.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:05:06.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

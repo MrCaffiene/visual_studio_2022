@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl Height="30" Width="30">~/images/Advertisements/1.png</ImageUrl>
+		<NavigateUrl>google.com/search?q=ad1</NavigateUrl>
+		<AlternateText>Ad 1</AlternateText>
+		<Impressions>9</Impressions>
+		<Keywords>ad1</Keywords>
+	</Ad>
+	<Ad>
+		<ImageUrl Height="30" Width="30">~/images/Advertisements/2.png</ImageUrl>
+		<NavigateUrl>google.com/search?q=ad1</NavigateUrl>
+		<AlternateText>Ad 2</AlternateText>
+		<Impressions>9</Impressions>
+		<Keywords>ad2</Keywords>
+	</Ad>
+	<Ad>
+		<ImageUrl Height="30" Width="30">~/images/Advertisements/3.png</ImageUrl>
+		<NavigateUrl>google.com/search?q=ad1</NavigateUrl>
+		<AlternateText>Ad 3</AlternateText>
+		<Impressions>9</Impressions>
+		<Keywords>ad3</Keywords>
+	</Ad>
+</Advertisements>
+

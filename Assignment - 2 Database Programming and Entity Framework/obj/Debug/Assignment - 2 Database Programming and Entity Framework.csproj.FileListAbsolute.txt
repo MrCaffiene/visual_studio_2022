@@ -1,0 +1,8 @@
+C:\Users\ankit\Desktop\working\GIT_HUB\visual_studio_2022\Assignment - 2 Database Programming and Entity Framework\bin\Assignment - 2 Database Programming and Entity Framework.dll.config
+C:\Users\ankit\Desktop\working\GIT_HUB\visual_studio_2022\Assignment - 2 Database Programming and Entity Framework\bin\Assignment - 2 Database Programming and Entity Framework.dll
+C:\Users\ankit\Desktop\working\GIT_HUB\visual_studio_2022\Assignment - 2 Database Programming and Entity Framework\bin\Assignment - 2 Database Programming and Entity Framework.pdb
+C:\Users\ankit\Desktop\working\GIT_HUB\visual_studio_2022\Assignment - 2 Database Programming and Entity Framework\obj\Debug\Assignment - 2 Database Programming and Entity Framework.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\working\GIT_HUB\visual_studio_2022\Assignment - 2 Database Programming and Entity Framework\obj\Debug\Assignment - 2 Database Programming and Entity Framework.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\working\GIT_HUB\visual_studio_2022\Assignment - 2 Database Programming and Entity Framework\obj\Debug\Assignment - 2 Database Programming and Entity Framework.dll
+C:\Users\ankit\Desktop\working\GIT_HUB\visual_studio_2022\Assignment - 2 Database Programming and Entity Framework\obj\Debug\Assignment - 2 Database Programming and Entity Framework.pdb
+C:\Users\ankit\Desktop\working\GIT_HUB\visual_studio_2022\Assignment - 2 Database Programming and Entity Framework\obj\Debug\Assignme.1E2521C4.Up2Date

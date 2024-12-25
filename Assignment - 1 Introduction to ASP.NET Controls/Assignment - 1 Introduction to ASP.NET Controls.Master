@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Assignment - 1 Introduction to ASP.NET Controls.master.cs" Inherits="Assignment___1_Introduction_to_ASP.NET_Controls.Assignment___1_Introduction_to_ASP_NET_Controls" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Assignment - 1 Introduction to ASP.NET Controls</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div>
+                <h1>Assignment - 1 Introduction to ASP.NET Controls</h1>
+                <h2>
+                    Name : Ankit Rajesh Dhotre<br />
+                    Roll No : 26<br />
+                    Division : A<br />
+                    Batch : 2024-2026 MCA<br />
+                </h2>
+                <h2>Question :</h2>
+            </div>
+            <asp:ContentPlaceHolder ID="body" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

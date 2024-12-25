@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<States>
+	<State name="Andhra Pradesh">
+		<City>Visakhapatnam</City>
+		<City>Vijayawada</City>
+		<City>Guntur</City>
+	</State>
+	<State name="Bihar">
+		<City>Patna</City>
+		<City>Gaya</City>
+		<City>Bhagalpur</City>
+	</State>
+	<State name="Goa">
+		<City>Panaji</City>
+		<City>Margao</City>
+	</State>
+	<State name="Gujarat">
+		<City>Ahemdabad</City>
+		<City>Surat</City>
+		<City>Vadodara</City>
+	</State>
+	<State name="Maharashtra">
+		<City>Mumbai</City>
+		<City>Pune</City>
+		<City>Nashik</City>
+	</State>
+	<State name="Rajasthan">
+		<City>Jaipur</City>
+		<City>Jodhpur</City>
+		<City>Udaipur</City>
+	</State>
+</States>

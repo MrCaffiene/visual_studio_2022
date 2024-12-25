@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankit\\Desktop\\working\\GIT_HUB\\visual_studio_2022\\EntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25DD4731-067C-4622-84BC-7C6F3BDF5F0A}|EntityFramework.csproj|c:\\users\\ankit\\desktop\\working\\git_hub\\visual_studio_2022\\entityframework\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DD4731-067C-4622-84BC-7C6F3BDF5F0A}|EntityFramework.csproj|solutionrelative:employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DD4731-067C-4622-84BC-7C6F3BDF5F0A}|EntityFramework.csproj|c:\\users\\ankit\\desktop\\working\\git_hub\\visual_studio_2022\\entityframework\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DD4731-067C-4622-84BC-7C6F3BDF5F0A}|EntityFramework.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\Desktop\\working\\GIT_HUB\\visual_studio_2022\\EntityFramework\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\ankit\\Desktop\\working\\GIT_HUB\\visual_studio_2022\\EntityFramework\\EmployeeContext.cs*",
+              "RelativeToolTip": "EmployeeContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:27:11.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\Desktop\\working\\GIT_HUB\\visual_studio_2022\\EntityFramework\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\ankit\\Desktop\\working\\GIT_HUB\\visual_studio_2022\\EntityFramework\\Employee.cs*",
+              "RelativeToolTip": "Employee.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:25:03.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

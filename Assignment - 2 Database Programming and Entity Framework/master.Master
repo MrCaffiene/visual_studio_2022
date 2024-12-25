@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master.master.cs" Inherits="Assignment___2_Database_Programming_and_Entity_Framework.master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="inHead" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+                    <h1>Assignment - 2 Database Programming in ASP.NET</h1>
+                <h1>
+                    NAME : ANKIT RAJESH DHOTRE<BR />
+                    ROLL NO : 26<BR />
+                    DIVISON : A<BR />
+                    BATCH : 2024-2026 MCA<BR /><BR />
+                </h1>
+            <asp:ContentPlaceHolder ID="inBody" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
